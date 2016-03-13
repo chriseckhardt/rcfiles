@@ -1,4 +1,5 @@
 rcfiles
 =======
 
-Collection of rcfiles for various programs
+Settings for things I use.
+
